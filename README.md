@@ -10,7 +10,6 @@ a price calculator that returns of prices of parking periods in bulk according t
  * readability and maintability over efficiency in the current solution, while performance can be optmised
  * use Jest for unit test, with test coverage of 100%
  * test cases rest in degenerate cases
-
  * business logics of `month` needs to be further specified
 
 ## Examine
