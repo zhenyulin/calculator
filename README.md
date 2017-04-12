@@ -7,7 +7,7 @@ a price calculator that returns of prices of parking periods in bulk according t
  * module developed in ES6 using Babel for transpile
  * use Moment as the DateTime helper library
  * abstraction can be provided via functions
- * prefer readability and maintability over efficiency in the current solution, while performance can be optmised when critical
+ * readability and maintability over efficiency in the current solution, while performance can be optmised
  * use Jest for unit test, with test coverage of 100%
  * test cases rest in degenerate cases
 
