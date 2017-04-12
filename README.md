@@ -1,15 +1,19 @@
 # pricing-test
 
-a price calculator that returns of prices of parking periods in bulk, always returns the price counted in the cheapest way
+a price calculator that returns of prices of parking periods in bulk according to rules as business logics
 
 ## About
 
  * module developed in ES6 using Babel for transpile
  * use Moment as the DateTime helper library
  * abstraction can be provided via functions
- * prefer readability and maintability over performance in the current solution, while performance can be optmised when critical
+ * prefer readability and maintability over efficiency in the current solution, while performance can be optmised when critical
  * use Jest for unit test, with test coverage of 100%
- * test cases are rest in degenerate cases
+ * test cases rest in degenerate cases
+
+ * business logics of `month` needs to be further specified
+ ** how month is counted
+ ** if there is a price calculation method with combination of month, week and day
 
 ## Examine
 
