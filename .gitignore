@@ -1,0 +1,11 @@
+coverage/
+node_modules/
+reports/
+docker_compose/
+dist/
+buid/
+
+.babel.json
+.config
+.DS_Store
+npm-debug.log
