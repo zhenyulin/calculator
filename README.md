@@ -12,8 +12,6 @@ a price calculator that returns of prices of parking periods in bulk according t
  * test cases rest in degenerate cases
 
  * business logics of `month` needs to be further specified
- ** how month is counted
- ** if there is a price calculation method with combination of month, week and day
 
 ## Examine
 
