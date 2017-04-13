@@ -11,8 +11,7 @@ import {
  * @return {Array} prices, the collection of parking prices corresponding to periods
  */
 export default function calculate(periods){
-	let prices = [];
-	periods.forEach((period, i) => prices[i] = priceOfPeriod(period));
+	const prices = periods.map(period => priceOfPeriod(period));
 	return prices;
 }
 
