@@ -1,4 +1,4 @@
-# pricing-test
+# calculator
 
 a price calculator that returns of prices of parking periods in bulk according to rules as business logics
 
