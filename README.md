@@ -1,4 +1,6 @@
-# calculator [![Build Status](https://travis-ci.org/zhenyulin/calculator.svg?branch=master)](https://travis-ci.org/zhenyulin/calculator)
+# calculator [![Code Climate](https://codeclimate.com/github/zhenyulin/calculator/badges/gpa.svg)](https://codeclimate.com/github/zhenyulin/calculator) 
+[![Build Status](https://travis-ci.org/zhenyulin/calculator.svg?branch=master)](https://travis-ci.org/zhenyulin/calculator) 
+[![Coverage Status](https://coveralls.io/repos/github/zhenyulin/calculator/badge.svg?branch=master)](https://coveralls.io/github/zhenyulin/calculator?branch=master)
 
 a price calculator that returns of prices of parking periods in bulk according to rules as business logics
 
