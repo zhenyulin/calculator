@@ -1,4 +1,4 @@
-# calculator
+# calculator [![Build Status](https://travis-ci.org/zhenyulin/calculator.svg?branch=master)](https://travis-ci.org/zhenyulin/calculator)
 
 a price calculator that returns of prices of parking periods in bulk according to rules as business logics
 
