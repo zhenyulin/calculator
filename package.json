@@ -6,8 +6,8 @@
   "license": "ISC",
   "scripts": {
     "build": "babel src -d dist/ --copy-files --ignore **/*.spec.js",
-    "test": "jest src",
-    "coverage": "jest src --coverage",
+    "test": "jest",
+    "cover": "jest --coverage",
     "lint": "eslint src -c eslint.js",
     "fix": "npm run lint -- --fix"
   },
